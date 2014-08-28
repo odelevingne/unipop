@@ -51,6 +51,8 @@ For example, New York University (NYU) will assign an alpha numeric email addres
 
 One future consideration is to customize access for each university, as some universities are smaller and lack critical mass for unipop to be successful.
 
+We could also use the existing framework to extend the site for use by companies or schools.
+
 Item display page
 ---
 <!-- getagging here. Stef, Steve? -->
